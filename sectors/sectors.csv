@@ -1,0 +1,619 @@
+﻿sector	ticker	nameEng	nameOriginalShort	nameOriginal	listedFrom	listedTill	traceColor	wikiPageIdOriginal	wikiPageIdEng
+	Borsa Istanbul		Borsa Istanbul						
+Borsa Istanbul	Miscellaneous	Miscellaneous	Miscellaneous	Miscellaneous			rgb(199,78,165)		
+Borsa Istanbul	Agriculture	Agriculture	Agriculture	Agriculture			rgb(220, 20, 60)		
+Borsa Istanbul	Basic Materials	Basic Materials	Basic Materials	Basic Materials			rgb(50, 205, 50)		
+Borsa Istanbul	Energy	Energy	Energy	Energy			rgb(199, 21, 133)		
+Borsa Istanbul	Industrials	Industrials	Industrials	Industrials			rgb(106, 90, 205)		
+Borsa Istanbul	Consumer Staples	Consumer Staples	Consumer Staples	Consumer Staples			rgb(255, 99, 71)		
+Borsa Istanbul	Utilities	Utilities	Utilities	Utilities			rgb(255, 127, 80)		
+Borsa Istanbul	Finance	Finance	Finance	Finance			rgb(70, 130, 180)		
+Borsa Istanbul	Real Estate	Real Estate	Real Estate	Real Estate			rgb(60, 179, 113)		
+Borsa Istanbul	Health Care	Health Care	Health Care	Health Care			rgb(244, 164, 96)		
+Borsa Istanbul	Technology	Technology	Technology	Technology			rgb(238, 232, 170)		
+Borsa Istanbul	Consumer Discretionary	Consumer Discretionary	Consumer Discretionary	Consumer Discretionary			rgb(75, 0, 130)		
+Borsa Istanbul	Telecommunications	Telecommunications	Telecommunications	Telecommunications			rgb(178, 34, 34)		
+Agriculture	AGROT			AGROTECH YÜKSEK TEKNOLOJİ VE YATIRIM A.Ş.					
+Agriculture	IZINV			İZ YATIRIM HOLDİNG A.Ş.					
+Agriculture	KNFRT			KONFRUT TARIM A.Ş.					
+Agriculture	OZSUB			ÖZSU BALIK ÜRETİM A.Ş.					
+Agriculture	YAPRK			YAPRAK SÜT VE BESİ ÇİFTLİKLERİ SANAYİ VE TİCARET A.Ş.					
+Basic Materials	ALMAD			ALTINYAĞ MADENCİLİK VE ENERJİ YATIRIMLARI SANAYİ VE TİCARET A.Ş.					
+Basic Materials	CVKMD			CVK MADEN İŞLETMELERİ SANAYİ VE TİCARET A.Ş.					
+Basic Materials	IPEKE			İPEK DOĞAL ENERJİ KAYNAKLARI ARAŞTIRMA VE ÜRETİM A.Ş.					
+Basic Materials	KOZAL			KOZA ALTIN İŞLETMELERİ A.Ş.					
+Basic Materials	KOZAA			KOZA ANADOLU METAL MADENCİLİK İŞLETMELERİ A.Ş.					
+Basic Materials	PRKME			PARK ELEKTRİK ÜRETİM MADENCİLİK SANAYİ VE TİCARET A.Ş.					
+Consumer Discretionary	AYCES			ALTIN YUNUS ÇEŞME TURİSTİK TESİSLER A.Ş.					
+Consumer Discretionary	AVTUR			AVRASYA PETROL VE TURİSTİK TESİSLER YATIRIMLAR A.Ş.					
+Consumer Discretionary	BYDNR			BAYDÖNER RESTORANLARI A.Ş.					
+Consumer Discretionary	BIGCH			BÜYÜK ŞEFLER GIDA TURİZM TEKSTİL DANIŞMANLIK ORGANİZASYON EĞİTİM SANAYİ VE TİCARET A.Ş.					
+Consumer Discretionary	DOCO			DO & CO AKTIENGESELLSCHAFT					
+Consumer Discretionary	ETILR			ETİLER GIDA VE TİCARİ YATIRIMLAR SANAYİ VE TİCARET A.Ş.					
+Consumer Discretionary	KSTUR			KUŞTUR KUŞADASI TURİZM ENDÜSTRİSİ A.Ş.					
+Consumer Discretionary	MAALT			MARMARİS ALTINYUNUS TURİSTİK TESİSLER A.Ş.					
+Consumer Discretionary	MARTI			MARTI OTEL İŞLETMELERİ A.Ş.					
+Consumer Discretionary	MERIT			MERİT TURİZM YATIRIM VE İŞLETME A.Ş.					
+Consumer Discretionary	PKENT			PETROKENT TURİZM A.Ş.					
+Consumer Discretionary	TABGD			TAB GIDA SANAYİ VE TİCARET A.Ş.					
+Consumer Discretionary	TEKTU			TEK-ART İNŞAAT TİCARET TURİZM SANAYİ VE YATIRIMLAR A.Ş.					
+Consumer Discretionary	ULAS			ULAŞLAR TURİZM ENERJİ TARIM GIDA VE İNŞAAT YATIRIMLARI A.Ş.					
+Consumer Staples	ARZUM			ARZUM ELEKTRİKLİ EV ALETLERİ SANAYİ VE TİCARET A.Ş.					
+Consumer Staples	BIMAS			BİM BİRLEŞİK MAĞAZALAR A.Ş.					
+Consumer Staples	BIZIM			BİZİM TOPTAN SATIŞ MAĞAZALARI A.Ş.					
+Consumer Staples	CRFSA			CARREFOURSA CARREFOUR SABANCI TİCARET MERKEZİ A.Ş.					
+Consumer Staples	CASA			CASA EMTİA PETROL KİMYEVİ VE TÜREVLERİ SANAYİ TİCARET A.Ş.					
+Consumer Staples	DCTTR			DCT TRADİNG DIŞ TİCARET A.Ş.					
+Consumer Staples	DOAS			DOĞUŞ OTOMOTİV SERVİS VE TİCARET A.Ş.					
+Consumer Staples	EBEBK			EBEBEK MAĞAZACILIK A.Ş.					
+Consumer Staples	KIMMR			ERSAN ALIŞVERİŞ HİZMETLERİ VE GIDA SANAYİ TİCARET A.Ş.					
+Consumer Staples	GENIL			GEN İLAÇ VE SAĞLIK ÜRÜNLERİ SANAYİ VE TİCARET A.Ş.					
+Consumer Staples	GMTAS			GİMAT MAĞAZACILIK SANAYİ VE TİCARET A.Ş.					
+Consumer Staples	INTEM			İNTEMA İNŞAAT VE TESİSAT MALZEMELERİ YATIRIM VE PAZARLAMA A.Ş.					
+Consumer Staples	KOTON			KOTON MAĞAZACILIK TEKSTİL SANAYİ VE TİCARET A.Ş.					
+Consumer Staples	KUVVA			KUVVA GIDA TİCARET VE SANAYİ YATIRIMLARI A.Ş.					
+Consumer Staples	MAVI			MAVİ GİYİM SANAYİ VE TİCARET A.Ş.					
+Consumer Staples	MEPET			MEPET METRO PETROL VE TESİSLERİ SANAYİ TİCARET A.Ş.					
+Consumer Staples	MGROS			MİGROS TİCARET A.Ş.					
+Consumer Staples	MOPAS			MOPAŞ MARKETÇİLİK GIDA SANAYİ VE TİCARET A.Ş.					
+Consumer Staples	PSDTC			PERGAMON STATUS DIŞ TİCARET A.Ş.					
+Consumer Staples	SANKO			SANKO PAZARLAMA İTHALAT İHRACAT A.Ş.					
+Consumer Staples	SELEC			SELÇUK ECZA DEPOSU TİCARET VE SANAYİ A.Ş.					
+Consumer Staples	SUWEN			SUWEN TEKSTİL SANAYİ PAZARLAMA A.Ş.					
+Consumer Staples	SOKM			ŞOK MARKETLER TİCARET A.Ş.					
+Consumer Staples	TKNSA			TEKNOSA İÇ VE DIŞ TİCARET A.Ş.					
+Consumer Staples	TGSAS			TGS DIŞ TİCARET A.Ş.					
+Consumer Staples	VAKKO			VAKKO TEKSTİL VE HAZIR GİYİM SANAYİ İŞLETMELERİ A.Ş.					
+Finance	ADGYO			ADRA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	AGHOL			AG ANADOLU GRUBU HOLDİNG A.Ş.					
+Finance	AGESA			AGESA HAYAT VE EMEKLİLİK A.Ş.					
+Finance	AHSGY			AHES GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	AKBNK			AKBANK T.A.Ş.					
+Finance	AKYHO			AKDENİZ YATIRIM HOLDİNG A.Ş.					
+Finance	AKFGY			AKFEN GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	AKSGY			AKİŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	AKMGY			AKMERKEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	AKGRT			AKSİGORTA A.Ş.					
+Finance	ALGYO			ALARKO GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ALARK			ALARKO HOLDİNG A.Ş.					
+Finance	ALBRK			ALBARAKA TÜRK KATILIM BANKASI A.Ş.					
+Finance	ALK			ALBARAKA TÜRK KATILIM BANKASI A.Ş.					
+Finance	ANSGR			ANADOLU ANONİM TÜRK SİGORTA ŞİRKETİ					
+Finance	ANHYT			ANADOLU HAYAT EMEKLİLİK A.Ş.					
+Finance	ASGYO			ASCE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ATAGY			ATA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	AGYO			ATAKULE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ATSYH			ATLANTİS YATIRIM HOLDİNG A.Ş.					
+Finance	ATLAS			ATLAS MENKUL KIYMETLER YATIRIM ORTAKLIĞI A.Ş.					
+Finance	AVGYO			AVRASYA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	AVHOL			AVRUPA YATIRIM HOLDİNG A.Ş.					
+Finance	AVPGY			AVRUPAKENT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	A1CAP			A1 CAPİTAL YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	ACP			A1 CAPİTAL YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	BASGZ			BAŞKENT DOĞALGAZ DAĞITIM GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	BEGYO			BATI EGE GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	BERA			BERA HOLDİNG A.Ş.					
+Finance	BRKVY			BİRİKİM VARLIK YÖNETİM A.Ş.					
+Finance	BRYAT			BORUSAN YATIRIM VE PAZARLAMA A.Ş.					
+Finance	COSMO			COSMOS YATIRIM HOLDİNG A.Ş.					
+Finance	CRDFA			CREDITWEST FAKTORİNG A.Ş.					
+Finance	DAGHL			DAGİ YATIRIM HOLDİNG A.Ş.					
+Finance	DENGE			DENGE YATIRIM HOLDİNG A.Ş.					
+Finance	DZGYO			DENİZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	DERHL			DERLÜKS YATIRIM HOLDİNG A.Ş.					
+Finance	DSTKF			DESTEK FİNANS FAKTORİNG A.Ş.					
+Finance	DOHOL			DOĞAN ŞİRKETLER GRUBU HOLDİNG A.Ş.					
+Finance	DGGYO			DOĞUŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ECZYT			ECZACIBAŞI YATIRIM HOLDİNG ORTAKLIĞI A.Ş.					
+Finance	ECILC			EİS ECZACIBAŞI İLAÇ SINAİ VE FİNANSAL YATIRIMLAR SANAYİ VE TİCARET A.Ş.					
+Finance	EKGYO			EMLAK KONUT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	EUKYO			EURO KAPİTAL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	EUYO			EURO MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ETYAT			EURO TREND YATIRIM ORTAKLIĞI A.Ş.					
+Finance	EUHOL			EURO YATIRIM HOLDİNG A.Ş.					
+Finance	EYGYO			EYG GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	FZLGY			FUZUL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	GARFA			GARANTİ FAKTORİNG A.Ş.					
+Finance	GRNYO			GARANTİ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	GEDIK			GEDİK YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	GLCVY			GELECEK VARLIK YÖNETİMİ A.Ş.					
+Finance	GLB			GLOBAL MENKUL DEĞERLER A.Ş.					
+Finance	GLBMD			GLOBAL MENKUL DEĞERLER A.Ş.					
+Finance	GLYHO			GLOBAL YATIRIM HOLDİNG A.Ş.					
+Finance	GOZDE			GÖZDE GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	GRTHO			GRAINTURK HOLDİNG A.Ş.					
+Finance	GSDHO			GSD HOLDİNG A.Ş.					
+Finance	GLRYH			GÜLER YATIRIM HOLDİNG A.Ş.					
+Finance	SAHOL			HACI ÖMER SABANCI HOLDİNG A.Ş.					
+Finance	HLGYO			HALK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	HDFGS			HEDEF GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	HEDEF			HEDEF HOLDİNG A.Ş.					
+Finance	HUBVC			HUB GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ICB			ICBC TURKEY BANK A.Ş.					
+Finance	ICBCT			ICBC TURKEY BANK A.Ş.					
+Finance	ICUGS			ICU GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	INVEO			INVEO YATIRIM HOLDİNG A.Ş.					
+Finance	INVES			INVESTCO HOLDİNG A.Ş.					
+Finance	IEYHO			IŞIKLAR ENERJİ VE YAPI HOLDİNG A.Ş.					
+Finance	IDGYO			İDEALİST GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	IHLAS			İHLAS HOLDİNG A.Ş.					
+Finance	IHYAY			İHLAS YAYIN HOLDİNG A.Ş.					
+Finance	INFO			İNFO YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	IYF			İNFO YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	ISFIN			İŞ FİNANSAL KİRALAMA A.Ş.					
+Finance	ISGYO			İŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ISGSY			İŞ GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ISMEN			İŞ YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	IYM			İŞ YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	ISYAT			İŞ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	ISBIR			İŞBİR HOLDİNG A.Ş.					
+Finance	KTLEV			KATILIMEVİM TASARRUF FİNANSMAN A.Ş.					
+Finance	KERVN			KERVANSARAY YATIRIM HOLDİNG A.Ş.					
+Finance	KZBGY			KIZILBÜK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	KLGYO			KİLER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	KLRHO			KİLER HOLDİNG A.Ş.					
+Finance	KCHOL			KOÇ HOLDİNG A.Ş.					
+Finance	KGYO			KORAY GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	KRGYO			KÖRFEZ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	KZGYO			KUZUGRUP GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	LIDFA			LİDER FAKTORİNG A.Ş.					
+Finance	LRSHO			LORAS HOLDİNG A.Ş.					
+Finance	LYDHO			LYDİA HOLDİNG A.Ş.					
+Finance	MARKA			MARKA YATIRIM HOLDİNG A.Ş.					
+Finance	MRGYO			MARTI GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	MZHLD			MAZHAR ZORLU HOLDİNG A.Ş.					
+Finance	METUR			METEMTUR YATIRIM ENERJİ TURİZM VE İNŞAAT A.Ş.					
+Finance	METRO			METRO TİCARİ VE MALİ YATIRIMLAR HOLDİNG A.Ş.					
+Finance	MTRYO			METRO YATIRIM ORTAKLIĞI A.Ş.					
+Finance	MHRGY			MHR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	MSGYO			MİSTRAL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	MMCAS			MMC SANAYİ VE TİCARİ YATIRIMLAR A.Ş.					
+Finance	NTHOL			NET HOLDİNG A.Ş.					
+Finance	NUGYO			NUROL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	OMD			OSMANLI YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	OSMEN			OSMANLI YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	OSTIM			OSTİM ENDÜSTRİYEL YATIRIMLAR VE İŞLETME A.Ş.					
+Finance	OTTO			OTTO HOLDİNG A.Ş.					
+Finance	OYA			OYAK YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	OYYAT			OYAK YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	OYAYO			OYAK YATIRIM ORTAKLIĞI A.Ş.					
+Finance	OZKGY			ÖZAK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	OZGYO			ÖZDERİCİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	PAGYO			PANORA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	PRDGS			PARDUS GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	PSGYO			PASİFİK GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	PEKGY			PEKER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	PEHOL			PERA YATIRIM HOLDİNG A.Ş.					
+Finance	POLHO			POLİSAN HOLDİNG A.Ş.					
+Finance	FIN			QNB BANK A.Ş.					
+Finance	QNBTR			QNB BANK A.Ş.					
+Finance	QNBFK			QNB FİNANSAL KİRALAMA A.Ş.					
+Finance	RALYH			RAL YATIRIM HOLDİNG A.Ş.					
+Finance	RAYSG			RAY SİGORTA A.Ş.					
+Finance	RYGYO			REYSAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	SRVGY			SERVET GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	SNGYO			SİNPAŞ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	SURGY			SUR TATİL EVLERİ GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	SMRVA			SÜMER VARLIK YÖNETİM A.Ş.					
+Finance	SEKFK			ŞEKER FİNANSAL KİRALAMA A.Ş.					
+Finance	SEGYO			ŞEKER GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	SKY			ŞEKER YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	SKYMD			ŞEKER YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	SEK			ŞEKERBANK T.A.Ş.					
+Finance	SKBNK			ŞEKERBANK T.A.Ş.					
+Finance	TAVHL			TAV HAVALİMANLARI HOLDİNG A.Ş.					
+Finance	TKFEN			TEKFEN HOLDİNG A.Ş.					
+Finance	TERA			TERA YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	TRA			TERA YATIRIM MENKUL DEĞERLER A.Ş.					
+Finance	TRGYO			TORUNLAR GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	TDGYO			TREND GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	TSGYO			TSKB GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	TRCAS			TURCAS PETROL A.Ş.					
+Finance	GARAN			TÜRKİYE GARANTİ BANKASI A.Ş.					
+Finance	TGB			TÜRKİYE GARANTİ BANKASI A.Ş.					
+Finance	HALKB			TÜRKİYE HALK BANKASI A.Ş.					
+Finance	THL			TÜRKİYE HALK BANKASI A.Ş.					
+Finance	ISATR			TÜRKİYE İŞ BANKASI A.Ş.					
+Finance	ISBTR			TÜRKİYE İŞ BANKASI A.Ş.					
+Finance	ISCTR			TÜRKİYE İŞ BANKASI A.Ş.					
+Finance	ISKUR			TÜRKİYE İŞ BANKASI A.Ş.					
+Finance	TIB			TÜRKİYE İŞ BANKASI A.Ş.					
+Finance	KLN			TÜRKİYE KALKINMA VE YATIRIM BANKASI A.Ş.					
+Finance	KLNMA			TÜRKİYE KALKINMA VE YATIRIM BANKASI A.Ş.					
+Finance	TSK			TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.					
+Finance	TSKB			TÜRKİYE SINAİ KALKINMA BANKASI A.Ş.					
+Finance	TURSG			TÜRKİYE SİGORTA A.Ş.					
+Finance	SISE			TÜRKİYE ŞİŞE VE CAM FABRİKALARI A.Ş.					
+Finance	TVB			TÜRKİYE VAKIFLAR BANKASI T.A.O.					
+Finance	VAKBN			TÜRKİYE VAKIFLAR BANKASI T.A.O.					
+Finance	UFUK			UFUK YATIRIM YÖNETİM VE GAYRİMENKUL A.Ş.					
+Finance	ULUFA			ULUSAL FAKTORİNG A.Ş.					
+Finance	UMPAS			UMPAŞ HOLDİNG A.Ş.					
+Finance	UNLU			ÜNLÜ YATIRIM HOLDİNG A.Ş.					
+Finance	VAKFN			VAKIF FİNANSAL KİRALAMA A.Ş.					
+Finance	VKGYO			VAKIF GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	VKFYO			VAKIF MENKUL KIYMET YATIRIM ORTAKLIĞI A.Ş.					
+Finance	VRGYO			VERA KONSEPT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	VERUS			VERUSA HOLDİNG A.Ş.					
+Finance	VERTU			VERUSATURK GİRİŞİM SERMAYESİ YATIRIM ORTAKLIĞI A.Ş.					
+Finance	YKB			YAPI VE KREDİ BANKASI A.Ş.					
+Finance	YKBNK			YAPI VE KREDİ BANKASI A.Ş.					
+Finance	YGGYO			YENİ GİMAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	YGYO			YEŞİL GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	YESIL			YEŞİL YATIRIM HOLDİNG A.Ş.					
+Finance	ZRGYO			ZİRAAT GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Finance	BINHO			1000 YATIRIMLAR HOLDİNG A.Ş.					
+Health Care	BJKAS			BEŞİKTAŞ FUTBOL YATIRIMLARI SANAYİ VE TİCARET A.Ş.					
+Health Care	FENER			FENERBAHÇE FUTBOL A.Ş.					
+Health Care	GSRAY			GALATASARAY SPORTİF SINAİ VE TİCARİ YATIRIMLAR A.Ş.					
+Health Care	LKMNH			LOKMAN HEKİM ENGÜRÜSAĞ SAĞLIK TURİZM EĞİTİM HİZMETLERİ VE İNŞAAT TAAHHÜT A.Ş.					
+Health Care	MACKO			MACKOLİK İNTERNET HİZMETLERİ TİCARET A.Ş.					
+Health Care	MPARK			MLP SAĞLIK HİZMETLERİ A.Ş.					
+Health Care	EGEPO			NASMED ÖZEL SAĞLIK HİZMETLERİ TİCARET A.Ş.					
+Health Care	TNZTP			TAPDİ OKSİJEN ÖZEL SAĞLIK VE EĞİTİM HİZMETLERİ SANAYİ TİCARET A.Ş.					
+Health Care	TSPOR			TRABZONSPOR SPORTİF YATIRIM VE FUTBOL İŞLETMECİLİĞİ TİCARET A.Ş.					
+Industrials	ACSEL			ACISELSAN ACIPAYAM SELÜLOZ SANAYİ VE TİCARET A.Ş.					
+Industrials	ADEL			ADEL KALEMCİLİK TİCARET VE SANAYİ A.Ş.					
+Industrials	AFYON			AFYON ÇİMENTO SANAYİ T.A.Ş.					
+Industrials	AKCNS			AKÇANSA ÇİMENTO SANAYİ VE TİCARET A.Ş.					
+Industrials	ATEKS			AKIN TEKSTİL A.Ş.					
+Industrials	AKSA			AKSA AKRİLİK KİMYA SANAYİİ A.Ş.					
+Industrials	ALCAR			ALARKO CARRIER SANAYİ VE TİCARET A.Ş.					
+Industrials	ALKIM			ALKİM ALKALİ KİMYA A.Ş.					
+Industrials	ALKA			ALKİM KAĞIT SANAYİ VE TİCARET A.Ş.					
+Industrials	ALKLC			ALTINKILIÇ GIDA VE SÜT SANAYİ TİCARET A.Ş.					
+Industrials	ALVES			ALVES KABLO SANAYİ VE TİCARET A.Ş.					
+Industrials	AEFES			ANADOLU EFES BİRACILIK VE MALT SANAYİİ A.Ş.					
+Industrials	ASUZU			ANADOLU ISUZU OTOMOTİV SANAYİ VE TİCARET A.Ş.					
+Industrials	ANGEN			ANATOLİA TANI VE BİYOTEKNOLOJİ ÜRÜNLERİ ARAŞTIRMA GELİŞTİRME SANAYİ VE TİCARET A.Ş.					
+Industrials	ARCLK			ARÇELİK A.Ş.					
+Industrials	ARMGD			ARMADA GIDA TİCARET SANAYİ A.Ş.					
+Industrials	ARSAN			ARSAN TEKSTİL TİCARET VE SANAYİ A.Ş.					
+Industrials	ARTMS			ARTEMİS HALI A.Ş.					
+Industrials	ASTOR			ASTOR ENERJİ A.Ş.					
+Industrials	ATAKP			ATAKEY PATATES GIDA SANAYİ VE TİCARET A.Ş.					
+Industrials	AVOD			A.V.O.D. KURUTULMUŞ GIDA VE TARIM ÜRÜNLERİ SANAYİ TİCARET A.Ş.					
+Industrials	AYES			AYES ÇELİK HASIR VE ÇİT SANAYİ A.Ş.					
+Industrials	AYGAZ			AYGAZ A.Ş.					
+Industrials	BAGFS			BAGFAŞ BANDIRMA GÜBRE FABRİKALARI A.Ş.					
+Industrials	BAHKM			BAHADIR KİMYA SANAYİ VE TİCARET A.Ş.					
+Industrials	BAKAB			BAK AMBALAJ SANAYİ VE TİCARET A.Ş.					
+Industrials	BALAT			BALATACILAR BALATACILIK SANAYİ VE TİCARET A.Ş.					
+Industrials	BNTAS			BANTAŞ BANDIRMA AMBALAJ SANAYİ VE TİCARET A.Ş.					
+Industrials	BANVT			BANVİT BANDIRMA VİTAMİNLİ YEM SANAYİ A.Ş.					
+Industrials	BARMA			BAREM AMBALAJ SANAYİ VE TİCARET A.Ş.					
+Industrials	BASCM			BAŞTAŞ BAŞKENT ÇİMENTO SANAYİ VE TİCARET A.Ş.					
+Industrials	BTCIM			BATIÇİM BATI ANADOLU ÇİMENTO SANAYİİ A.Ş.					
+Industrials	BSOKE			BATISÖKE SÖKE ÇİMENTO SANAYİİ T.A.Ş.					
+Industrials	BAYRK			BAYRAK EBT TABAN SANAYİ VE TİCARET A.Ş.					
+Industrials	BRKSN			BERKOSAN YALITIM VE TECRİT MADDELERİ ÜRETİM VE TİCARET A.Ş.					
+Industrials	BIENY			BİEN YAPI ÜRÜNLERİ SANAYİ TURİZM VE TİCARET A.Ş.					
+Industrials	BLCYT			BİLİCİ YATIRIM SANAYİ VE TİCARET A.Ş.					
+Industrials	BRKO			BİRKO BİRLEŞİK KOYUNLULULAR MENSUCAT TİCARET VE SANAYİ A.Ş.					
+Industrials	BRMEN			BİRLİK MENSUCAT TİCARET VE SANAYİ İŞLETMESİ A.Ş.					
+Industrials	BMSTL			BMS BİRLEŞİK METAL SANAYİ VE TİCARET A.Ş.					
+Industrials	BMSCH			BMS ÇELİK HASIR SANAYİ VE TİCARET A.Ş.					
+Industrials	BOBET			BOĞAZİÇİ BETON SANAYİ VE TİCARET A.Ş.					
+Industrials	BORSK			BOR ŞEKER A.Ş.					
+Industrials	BRSAN			BORUSAN BİRLEŞİK BORU FABRİKALARI SANAYİ VE TİCARET A.Ş.					
+Industrials	BFREN			BOSCH FREN SİSTEMLERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	BOSSA			BOSSA TİCARET VE SANAYİ İŞLETMELERİ T.A.Ş.					
+Industrials	BRISA			BRİSA BRİDGESTONE SABANCI LASTİK SANAYİ VE TİCARET A.Ş.					
+Industrials	BURCE			BURÇELİK BURSA ÇELİK DÖKÜM SANAYİİ A.Ş.					
+Industrials	BURVA			BURÇELİK VANA SANAYİ VE TİCARET A.Ş.					
+Industrials	BUCIM			BURSA ÇİMENTO FABRİKASI A.Ş.					
+Industrials	BVSAN			BÜLBÜLOĞLU VİNÇ SANAYİ VE TİCARET A.Ş.					
+Industrials	CEMZY			CEM ZEYTİN A.Ş.					
+Industrials	CCOLA			COCA-COLA İÇECEK A.Ş.					
+Industrials	CGCAM			ÇAĞDAŞ CAM SANAYİ VE TİCARET A.Ş.					
+Industrials	CELHA			ÇELİK HALAT VE TEL SANAYİİ A.Ş.					
+Industrials	CEMAS			ÇEMAŞ DÖKÜM SANAYİ A.Ş.					
+Industrials	CEMTS			ÇEMTAŞ ÇELİK MAKİNA SANAYİ VE TİCARET A.Ş.					
+Industrials	CMBTN			ÇİMBETON HAZIRBETON VE PREFABRİK YAPI ELEMANLARI SANAYİ VE TİCARET A.Ş.					
+Industrials	CMENT			ÇİMENTAŞ İZMİR ÇİMENTO FABRİKASI T.A.Ş.					
+Industrials	CIMSA			ÇİMSA ÇİMENTO SANAYİ VE TİCARET A.Ş.					
+Industrials	CUSAN			ÇUHADAROĞLU METAL SANAYİ VE PAZARLAMA A.Ş.					
+Industrials	DAGI			DAGİ GİYİM SANAYİ VE TİCARET A.Ş.					
+Industrials	DARDL			DARDANEL ÖNENTAŞ GIDA SANAYİ A.Ş.					
+Industrials	DMSAS			DEMİSAŞ DÖKÜM EMAYE MAMÜLLERİ SANAYİ A.Ş.					
+Industrials	DERIM			DERİMOD KONFEKSİYON AYAKKABI DERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	DESA			DESA DERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	DEVA			DEVA HOLDİNG A.Ş.					
+Industrials	DNISI			DİNAMİK ISI MAKİNA YALITIM MALZEMELERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	DIRIT			DİRİTEKS DİRİLİŞ TEKSTİL SANAYİ VE TİCARET A.Ş.					
+Industrials	DITAS			DİTAŞ DOĞAN YEDEK PARÇA İMALAT VE TEKNİK A.Ş.					
+Industrials	DMRGD			DMR UNLU MAMULLER ÜRETİM GIDA TOPTAN PERAKENDE İHRACAT A.Ş.					
+Industrials	DOFER			DOFER YAPI MALZEMELERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	DGNMO			DOĞANLAR MOBİLYA GRUBU İMALAT SANAYİ VE TİCARET A.Ş.					
+Industrials	DOGUB			DOĞUSAN BORU SANAYİ VE TİCARET A.Ş.					
+Industrials	DOKTA			DÖKTAŞ DÖKÜMCÜLÜK TİCARET VE SANAYİ A.Ş.					
+Industrials	DURDO			DURAN DOĞAN BASIM VE AMBALAJ SANAYİ A.Ş.					
+Industrials	DURKN			DURUKAN ŞEKERLEME SANAYİ VE TİCARET A.Ş.					
+Industrials	DYOBY			DYO BOYA FABRİKALARI SANAYİ VE TİCARET A.Ş.					
+Industrials	EFORC			EFOR ÇAY SANAYİ TİCARET A.Ş.					
+Industrials	EGEEN			EGE ENDÜSTRİ VE TİCARET A.Ş.					
+Industrials	EGGUB			EGE GÜBRE SANAYİİ A.Ş.					
+Industrials	EGPRO			EGE PROFİL TİCARET VE SANAYİ A.Ş.					
+Industrials	EGSER			EGE SERAMİK SANAYİ VE TİCARET A.Ş.					
+Industrials	EPLAS			EGEPLAST EGE PLASTİK TİCARET VE SANAYİ A.Ş.					
+Industrials	EKIZ			EKİZ KİMYA SANAYİ VE TİCARET A.Ş.					
+Industrials	EKOS			EKOS TEKNOLOJİ VE ELEKTRİK A.Ş.					
+Industrials	EKSUN			EKSUN GIDA TARIM SANAYİ VE TİCARET A.Ş.					
+Industrials	ELITE			ELİTE NATUREL ORGANİK GIDA SANAYİ VE TİCARET A.Ş.					
+Industrials	EMKEL			EMEK ELEKTRİK ENDÜSTRİSİ A.Ş.					
+Industrials	EMNIS			EMİNİŞ AMBALAJ SANAYİ VE TİCARET A.Ş.					
+Industrials	ENSRI			ENSARİ DERİ GIDA SANAYİ VE TİCARET A.Ş.					
+Industrials	ERBOS			ERBOSAN ERCİYAS BORU SANAYİ VE TİCARET A.Ş.					
+Industrials	ERCB			ERCİYAS ÇELİK BORU SANAYİ A.Ş.					
+Industrials	EREGL			EREĞLİ DEMİR VE ÇELİK FABRİKALARI T.A.Ş.					
+Industrials	ERSU			ERSU MEYVE VE GIDA SANAYİ A.Ş.					
+Industrials	TEZOL			EUROPAP TEZOL KAĞIT SANAYİ VE TİCARET A.Ş.					
+Industrials	EUREN			EUROPEN ENDÜSTRİ İNŞAAT SANAYİ VE TİCARET A.Ş.					
+Industrials	EUPWR			EUROPOWER ENERJİ VE OTOMASYON TEKNOLOJİLERİ SANAYİ TİCARET A.Ş.					
+Industrials	FADE			FADE GIDA YATIRIM SANAYİ TİCARET A.Ş.					
+Industrials	FMIZP			FEDERAL MOGUL İZMİT PİSTON VE PİM ÜRETİM TESİSLERİ A.Ş.					
+Industrials	FROTO			FORD OTOMOTİV SANAYİ A.Ş.					
+Industrials	FORMT			FORMET METAL VE CAM SANAYİ A.Ş.					
+Industrials	FRIGO			FRİGO-PAK GIDA MADDELERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	GEDZA			GEDİZ AMBALAJ SANAYİ VE TİCARET A.Ş.					
+Industrials	GENTS			GENTAŞ DEKORATİF YÜZEYLER SANAYİ VE TİCARET A.Ş.					
+Industrials	GEREL			GERSAN ELEKTRİK TİCARET VE SANAYİ A.Ş.					
+Industrials	GIPTA			GIPTA OFİS KIRTASİYE VE PROMOSYON ÜRÜNLERİ İMALAT SANAYİ A.Ş.					
+Industrials	GOODY			GOODYEAR LASTİKLERİ T.A.Ş.					
+Industrials	GOKNR			GÖKNUR GIDA MADDELERİ ENERJİ İMALAT İTHALAT İHRACAT TİCARET VE SANAYİ A.Ş.					
+Industrials	GOLTS			GÖLTAŞ GÖLLER BÖLGESİ ÇİMENTO SANAYİ VE TİCARET A.Ş.					
+Industrials	GUBRF			GÜBRE FABRİKALARI T.A.Ş.					
+Industrials	GUNDG			GÜNDOĞDU GIDA SÜT ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.					
+Industrials	HATEK			HATEKS HATAY TEKSTİL İŞLETMELERİ A.Ş.					
+Industrials	HATSN			HAT-SAN GEMİ İNŞAA BAKIM ONARIM DENİZ NAKLİYAT SANAYİ VE TİCARET A.Ş.					
+Industrials	HEKTS			HEKTAŞ TİCARET T.A.Ş.					
+Industrials	HKTM			HİDROPAR HAREKET KONTROL TEKNOLOJİLERİ MERKEZİ SANAYİ VE TİCARET A.Ş.					
+Industrials	ISKPL			IŞIK PLASTİK SANAYİ VE DIŞ TİCARET PAZARLAMA A.Ş.					
+Industrials	IHEVA			İHLAS EV ALETLERİ İMALAT SANAYİ VE TİCARET A.Ş.					
+Industrials	IMASM			İMAŞ MAKİNA SANAYİ A.Ş.					
+Industrials	ISDMR			İSKENDERUN DEMİR VE ÇELİK A.Ş.					
+Industrials	ISSEN			İŞBİR SENTETİK DOKUMA SANAYİ A.Ş.					
+Industrials	IZMDC			İZMİR DEMİR ÇELİK SANAYİ A.Ş.					
+Industrials	IZFAS			İZMİR FIRÇA SANAYİ VE TİCARET A.Ş.					
+Industrials	JANTS			JANTSA JANT SANAYİ VE TİCARET A.Ş.					
+Industrials	KLKIM			KALEKİM KİMYEVİ MADDELER SANAYİ VE TİCARET A.Ş.					
+Industrials	KLSER			KALESERAMİK ÇANAKKALE KALEBODUR SERAMİK SANAYİ A.Ş.					
+Industrials	KAPLM			KAPLAMİN AMBALAJ SANAYİ VE TİCARET A.Ş.					
+Industrials	KRDMA			KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.					
+Industrials	KRDMB			KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.					
+Industrials	KRDMD			KARDEMİR KARABÜK DEMİR ÇELİK SANAYİ VE TİCARET A.Ş.					
+Industrials	KARSN			KARSAN OTOMOTİV SANAYİİ VE TİCARET A.Ş.					
+Industrials	KRTEK			KARSU TEKSTİL SANAYİİ VE TİCARET A.Ş.					
+Industrials	KARTN			KARTONSAN KARTON SANAYİ VE TİCARET A.Ş.					
+Industrials	KATMR			KATMERCİLER ARAÇ ÜSTÜ EKİPMAN SANAYİ VE TİCARET A.Ş.					
+Industrials	KAYSE			KAYSERİ ŞEKER FABRİKASI A.Ş.					
+Industrials	KENT			KENT GIDA MADDELERİ SANAYİİ VE TİCARET A.Ş.					
+Industrials	KERVT			KEREVİTAŞ GIDA SANAYİ VE TİCARET A.Ş.					
+Industrials	KRVGD			KERVAN GIDA SANAYİ VE TİCARET A.Ş.					
+Industrials	TCKRC			KIRAÇ GALVANİZ TELEKOMİNİKASYON METAL MAKİNE İNŞAAT ELEKTRİK SANAYİ VE TİCARET A.Ş.					
+Industrials	KMPUR			KİMTEKS POLİÜRETAN SANAYİ VE TİCARET A.Ş.					
+Industrials	KLMSN			KLİMASAN KLİMA SANAYİ VE TİCARET A.Ş.					
+Industrials	KCAER			KOCAER ÇELİK SANAYİ VE TİCARET A.Ş.					
+Industrials	KOCMT			KOÇ METALURJİ A.Ş.					
+Industrials	KLSYN			KOLEKSİYON MOBİLYA SANAYİ A.Ş.					
+Industrials	KONYA			KONYA ÇİMENTO SANAYİİ A.Ş.					
+Industrials	KONKA			KONYA KAĞIT SANAYİ VE TİCARET A.Ş.					
+Industrials	KORDS			KORDSA TEKNİK TEKSTİL A.Ş.					
+Industrials	KRPLS			KOROPLAST TEMİZLİK AMBALAJ ÜRÜNLERİ SANAYİ VE DIŞ TİCARET A.Ş.					
+Industrials	KOPOL			KOZA POLYESTER SANAYİ VE TİCARET A.Ş.					
+Industrials	KRSTL			KRİSTAL KOLA VE MEŞRUBAT SANAYİ TİCARET A.Ş.					
+Industrials	KBORU			KUZEY BORU A.Ş.					
+Industrials	KUTPO			KÜTAHYA PORSELEN SANAYİ A.Ş.					
+Industrials	KTSKR			KÜTAHYA ŞEKER FABRİKASI A.Ş.					
+Industrials	LILAK			LİLA KAĞIT SANAYİ VE TİCARET A.Ş.					
+Industrials	LMKDC			LİMAK DOĞU ANADOLU ÇİMENTO SANAYİ VE TİCARET A.Ş.					
+Industrials	LUKSK			LÜKS KADİFE TİCARET VE SANAYİİ A.Ş.					
+Industrials	MAKIM			MAKİM MAKİNA TEKNOLOJİLERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	MAKTK			MAKİNA TAKIM ENDÜSTRİSİ A.Ş.					
+Industrials	MRSHL			MARSHALL BOYA VE VERNİK SANAYİİ A.Ş.					
+Industrials	MEDTR			MEDİTERA TIBBİ MALZEME SANAYİ VE TİCARET A.Ş.					
+Industrials	MEGMT			MEGA METAL SANAYİ VE TİCARET A.Ş.					
+Industrials	MEGAP			MEGA POLİETİLEN KÖPÜK SANAYİ VE TİCARET A.Ş.					
+Industrials	MEKAG			MEKA GLOBAL MAKİNE İMALAT SANAYİ VE TİCARET A.Ş.					
+Industrials	MNDRS			MENDERES TEKSTİL SANAYİ VE TİCARET A.Ş.					
+Industrials	MERCN			MERCAN KİMYA SANAYİ VE TİCARET A.Ş.					
+Industrials	MERKO			MERKO GIDA SANAYİ VE TİCARET A.Ş.					
+Industrials	MNDTR			MONDİ TURKEY OLUKLU MUKAVVA KAĞIT VE AMBALAJ SANAYİ A.Ş.					
+Industrials	NIBAS			NİĞBAŞ NİĞDE BETON SANAYİ VE TİCARET A.Ş.					
+Industrials	NUHCM			NUH ÇİMENTO SANAYİ A.Ş.					
+Industrials	OBAMS			OBA MAKARNACILIK SANAYİ VE TİCARET A.Ş.					
+Industrials	OFSYM			OFİS YEM GIDA SANAYİ TİCARET A.Ş.					
+Industrials	ONCSM			ONCOSEM ONKOLOJİK SİSTEMLER SANAYİ VE TİCARET A.Ş.					
+Industrials	ORCAY			ORÇAY ORTAKÖY ÇAY SANAYİ VE TİCARET A.Ş.					
+Industrials	ORMA			ORMA ORMAN MAHSÜLLERİ İNTEGRE SANAYİ VE TİCARET A.Ş.					
+Industrials	OTKAR			OTOKAR OTOMOTİV VE SAVUNMA SANAYİ A.Ş.					
+Industrials	OYAKC			OYAK ÇİMENTO FABRİKALARI A.Ş.					
+Industrials	OYLUM			OYLUM SINAİ YATIRIMLAR A.Ş.					
+Industrials	OZATD			ÖZATA DENİZCİLİK SANAYİ VE TİCARET A.Ş.					
+Industrials	OZRDN			ÖZERDEN AMBALAJ SANAYİ A.Ş.					
+Industrials	OZYSR			ÖZYAŞAR TEL VE GALVANİZLEME SANAYİ A.Ş.					
+Industrials	PNLSN			PANELSAN ÇATI CEPHE SİSTEMLERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	PARSN			PARSAN MAKİNA PARÇALARI SANAYİİ A.Ş.					
+Industrials	PENGD			PENGUEN GIDA SANAYİ A.Ş.					
+Industrials	PETKM			PETKİM PETROKİMYA HOLDİNG A.Ş.					
+Industrials	PETUN			PINAR ENTEGRE ET VE UN SANAYİİ A.Ş.					
+Industrials	PINSU			PINAR SU VE İÇECEK SANAYİ VE TİCARET A.Ş.					
+Industrials	PNSUT			PINAR SÜT MAMÜLLERİ SANAYİİ A.Ş.					
+Industrials	POLTK			POLİTEKNİK METAL SANAYİ VE TİCARET A.Ş.					
+Industrials	PRZMA			PRİZMA PRES MATBAACILIK YAYINCILIK SANAYİ VE TİCARET A.Ş.					
+Industrials	QUAGR			QUA GRANITE HAYAL YAPI VE ÜRÜNLERİ SANAYİ TİCARET A.Ş.					
+Industrials	RNPOL			RAİNBOW POLİKARBONAT SANAYİ TİCARET A.Ş.					
+Industrials	RODRG			RODRİGO TEKSTİL SANAYİ VE TİCARET A.Ş.					
+Industrials	ROYAL			ROYAL HALI İPLİK TEKSTİL MOBİLYA SANAYİ VE TİCARET A.Ş.					
+Industrials	RTALB			RTA LABORATUVARLARI BİYOLOJİK ÜRÜNLER İLAÇ VE MAKİNE SANAYİ TİCARET A.Ş.					
+Industrials	RUBNS			RUBENİS TEKSTİL SANAYİ TİCARET A.Ş.					
+Industrials	SAFKR			SAFKAR EGE SOĞUTMACILIK KLİMA SOĞUK HAVA TESİSLERİ İHRACAT İTHALAT SANAYİ VE TİCARET A.Ş.					
+Industrials	SNICA			SANİCA ISI SANAYİ A.Ş.					
+Industrials	SANFM			SANİFOAM ENDÜSTRİ VE TÜKETİM ÜRÜNLERİ SANAYİ TİCARET A.Ş.					
+Industrials	SAMAT			SARAY MATBAACILIK KAĞITÇILIK KIRTASİYECİLİK TİCARET VE SANAYİ A.Ş.					
+Industrials	SARKY			SARKUYSAN ELEKTROLİTİK BAKIR SANAYİ VE TİCARET A.Ş.					
+Industrials	SASA			SASA POLYESTER SANAYİ A.Ş.					
+Industrials	SAYAS			SAY YENİLENEBİLİR ENERJİ EKİPMANLARI SANAYİ VE TİCARET A.Ş.					
+Industrials	SEGMN			SEĞMEN KARDEŞLER GIDA ÜRETİM VE AMBALAJ SANAYİ A.Ş.					
+Industrials	SEKUR			SEKURO PLASTİK AMBALAJ SANAYİ A.Ş.					
+Industrials	SELGD			SELÇUK GIDA ENDÜSTRİ İHRACAT İTHALAT A.Ş.					
+Industrials	SELVA			SELVA GIDA SANAYİ A.Ş.					
+Industrials	SERNT			SERANİT GRANİT SERAMİK SANAYİ VE TİCARET A.Ş.					
+Industrials	SEYKM			SEYİTLER KİMYA SANAYİ A.Ş.					
+Industrials	SILVR			SİLVERLİNE ENDÜSTRİ VE TİCARET A.Ş.					
+Industrials	SODSN			SODAŞ SODYUM SANAYİİ A.Ş.					
+Industrials	SOKE			SÖKE DEĞİRMENCİLİK SANAYİ VE TİCARET A.Ş.					
+Industrials	SKTAS			SÖKTAŞ TEKSTİL SANAYİ VE TİCARET A.Ş.					
+Industrials	SNPAM			SÖNMEZ PAMUKLU SANAYİİ A.Ş.					
+Industrials	SUMAS			SUMAŞ SUNİ TAHTA VE MOBİLYA SANAYİİ A.Ş.					
+Industrials	SUNTK			SUN TEKSTİL SANAYİ VE TİCARET A.Ş.					
+Industrials	TARKM			TARKİM BİTKİ KORUMA SANAYİ VE TİCARET A.Ş.					
+Industrials	TATGD			TAT GIDA SANAYİ A.Ş.					
+Industrials	TMPOL			TEMAPOL POLİMER PLASTİK VE İNŞAAT SANAYİ TİCARET A.Ş.					
+Industrials	TOASO			TOFAŞ TÜRK OTOMOBİL FABRİKASI A.Ş.					
+Industrials	TUCLK			TUĞÇELİK ALÜMİNYUM VE METAL MAMÜLLERİ SANAYİ VE TİCARET A.Ş.					
+Industrials	TUKAS			TUKAŞ GIDA SANAYİ VE TİCARET A.Ş.					
+Industrials	MARBL			TUREKS TURUNÇ MADENCİLİK İÇ VE DIŞ TİCARET A.Ş.					
+Industrials	TRILC			TURK İLAÇ VE SERUM SANAYİ A.Ş.					
+Industrials	TMSN			TÜMOSAN MOTOR VE TRAKTÖR SANAYİ A.Ş.					
+Industrials	TUPRS			TÜPRAŞ-TÜRKİYE PETROL RAFİNERİLERİ A.Ş.					
+Industrials	PRKAB			TÜRK PRYSMİAN KABLO VE SİSTEMLERİ A.Ş.					
+Industrials	TTRAK			TÜRK TRAKTÖR VE ZİRAAT MAKİNELERİ A.Ş.					
+Industrials	TBORG			TÜRK TUBORG BİRA VE MALT SANAYİİ A.Ş.					
+Industrials	ULUSE			ULUSOY ELEKTRİK İMALAT TAAHHÜT VE TİCARET A.Ş.					
+Industrials	ULUUN			ULUSOY UN SANAYİ VE TİCARET A.Ş.					
+Industrials	USAK			UŞAK SERAMİK SANAYİ A.Ş.					
+Industrials	ULKER			ÜLKER BİSKÜVİ SANAYİ A.Ş.					
+Industrials	VANGD			VANET GIDA SANAYİ İÇ VE DIŞ TİCARET A.Ş.					
+Industrials	VESBE			VESTEL BEYAZ EŞYA SANAYİ VE TİCARET A.Ş.					
+Industrials	VESTL			VESTEL ELEKTRONİK SANAYİ VE TİCARET A.Ş.					
+Industrials	VKING			VİKİNG KAĞIT VE SELÜLOZ A.Ş.					
+Industrials	YATAS			YATAŞ YATAK VE YORGAN SANAYİ TİCARET A.Ş.					
+Industrials	YYLGD			YAYLA AGRO GIDA SANAYİ VE TİCARET A.Ş.					
+Industrials	YBTAS			YİBİTAŞ YOZGAT İŞÇİ BİRLİĞİ İNŞAAT MALZEMELERİ TİCARET VE SANAYİ A.Ş.					
+Industrials	YIGIT			YİĞİT AKÜ MALZEMELERİ NAKLİYAT TURİZM İNŞAAT SANAYİ VE TİCARET A.Ş.					
+Industrials	YONGA			YONGA MOBİLYA SANAYİ VE TİCARET A.Ş.					
+Industrials	YKSLN			YÜKSELEN ÇELİK A.Ş.					
+Industrials	YUNSA			YÜNSA YÜNLÜ SANAYİ VE TİCARET A.Ş.					
+Industrials	AKFIS			AKFEN İNŞAAT TURİZM VE TİCARET A.Ş.					
+Industrials	ANELE			ANEL ELEKTRİK PROJE TAAHHÜT VE TİCARET A.Ş.					
+Industrials	BRLSM			BİRLEŞİM MÜHENDİSLİK ISITMA SOĞUTMA HAVALANDIRMA SANAYİ VE TİCARET A.Ş.					
+Industrials	DAPGM			DAP GAYRİMENKUL GELİŞTİRME A.Ş.					
+Industrials	EDIP			EDİP GAYRİMENKUL YATIRIM SANAYİ VE TİCARET A.Ş.					
+Industrials	ENKAI			ENKA İNŞAAT VE SANAYİ A.Ş.					
+Industrials	GESAN			GİRİŞİM ELEKTRİK SANAYİ TAAHHÜT VE TİCARET A.Ş.					
+Industrials	GLRMK			GÜLERMAK AĞIR SANAYİ İNŞAAT VE TAAHHÜT A.Ş.					
+Industrials	KUYAS			KUYAŞ YATIRIM A.Ş.					
+Industrials	ORGE			ORGE ENERJİ ELEKTRİK TAAHHÜT A.Ş.					
+Industrials	SANEL			SAN-EL MÜHENDİSLİK ELEKTRİK TAAHHÜT SANAYİ VE TİCARET A.Ş.					
+Industrials	TURGG			TÜRKER PROJE GAYRİMENKUL VE YATIRIM GELİŞTİRME A.Ş.					
+Industrials	YAYLA			YAYLA ENERJİ ÜRETİM TURİZM VE İNŞAAT TİCARET A.Ş.					
+Industrials	YYAPI			YEŞİL YAPI ENDÜSTRİSİ A.Ş.					
+Industrials	BEYAZ			BEYAZ FİLO OTO KİRALAMA A.Ş.					
+Industrials	CLEBI			ÇELEBİ HAVA SERVİSİ A.Ş.					
+Industrials	GSDDE			GSD DENİZCİLİK GAYRİMENKUL İNŞAAT SANAYİ VE TİCARET A.Ş.					
+Industrials	GRSEL			GÜR-SEL TURİZM TAŞIMACILIK VE SERVİS TİCARET A.Ş.					
+Industrials	HRKET			HAREKET PROJE TAŞIMACILIĞI VE YÜK MÜHENDİSLİĞİ A.Ş.					
+Industrials	HOROZ			HOROZ LOJİSTİK KARGO HİZMETLERİ VE TİCARET A.Ş.					
+Industrials	PASEU			PASİFİK EURASİA LOJİSTİK DIŞ TİCARET A.Ş.					
+Industrials	PGSUS			PEGASUS HAVA TAŞIMACILIĞI A.Ş.					
+Industrials	RYSAS			REYSAŞ TAŞIMACILIK VE LOJİSTİK TİCARET A.Ş.					
+Industrials	TLMAN			TRABZON LİMAN İŞLETMECİLİĞİ A.Ş.					
+Industrials	TUREX			TUREKS TURİZM TAŞIMACILIK A.Ş.					
+Industrials	THYAO			TÜRK HAVA YOLLARI A.O.					
+Miscellaneous	KONTR			KONTROLMATİK TEKNOLOJİ ENERJİ VE MÜHENDİSLİK A.Ş.					
+Miscellaneous	PCILT			PC İLETİŞİM VE MEDYA HİZMETLERİ SANAYİ TİCARET A.Ş.					
+Miscellaneous	SKYLP			SKYALP FİNANSAL TEKNOLOJİLER VE DANIŞMANLIK A.Ş.					
+Miscellaneous	YEOTK			YEO TEKNOLOJİ ENERJİ VE ENDÜSTRİ A.Ş.					
+Miscellaneous	BORLS			BORLEASE OTOMOTİV A.Ş.					
+Miscellaneous	CEOEM			CEO EVENT MEDYA A.Ş.					
+Miscellaneous	ESCAR			ESCAR FİLO KİRALAMA HİZMETLERİ A.Ş.					
+Miscellaneous	FLAP			FLAP KONGRE TOPLANTI HİZMETLERİ OTOMOTİV VE TURİZM A.Ş.					
+Miscellaneous	GZNMI			GEZİNOMİ SEYAHAT TURİZM TİCARET A.Ş.					
+Miscellaneous	LIDER			LDR TURİZM A.Ş.					
+Miscellaneous	PLTUR			PLATFORM TURİZM TAŞIMACILIK GIDA İNŞAAT TEMİZLİK HİZMETLERİ SANAYİ VE TİCARET A.Ş.					
+Miscellaneous	SNKRN			SENKRON SİBER GÜVENLİK YAZILIM VE BİLİŞİM ÇÖZÜMLERİ A.Ş.					
+Real Estate	ADESE			ADESE GAYRİMENKUL YATIRIM A.Ş.					
+Real Estate	EGEGY			EGEYAPI AVRUPA GAYRİMENKUL YATIRIM ORTAKLIĞI A.Ş.					
+Real Estate	IHLGM			İHLAS GAYRİMENKUL PROJE GELİŞTİRME VE TİCARET A.Ş.					
+Real Estate	RGYAS			RÖNESANS GAYRİMENKUL YATIRIM A.Ş.					
+Real Estate	SONME			SÖNMEZ FİLAMENT SENTETİK İPLİK VE ELYAF SANAYİ A.Ş.					
+Technology	ALCTL			ALCATEL LUCENT TELETAŞ TELEKOMÜNİKASYON A.Ş.					
+Technology	ALTNY			ALTINAY SAVUNMA TEKNOLOJİLERİ A.Ş.					
+Technology	ARDYZ			ARD GRUP BİLİŞİM TEKNOLOJİLERİ A.Ş.					
+Technology	ARENA			ARENA BİLGİSAYAR SANAYİ VE TİCARET A.Ş.					
+Technology	ASELS			ASELSAN ELEKTRONİK SANAYİ VE TİCARET A.Ş.					
+Technology	ATATP			ATP YAZILIM VE TEKNOLOJİ A.Ş.					
+Technology	AZTEK			AZTEK TEKNOLOJİ ÜRÜNLERİ TİCARET A.Ş.					
+Technology	BINBN			BİN ULAŞIM VE AKILLI ŞEHİR TEKNOLOJİLERİ A.Ş.					
+Technology	DGATE			DATAGATE BİLGİSAYAR MALZEMELERİ TİCARET A.Ş.					
+Technology	DESPC			DESPEC BİLGİSAYAR PAZARLAMA VE TİCARET A.Ş.					
+Technology	EDATA			E-DATA TEKNOLOJİ PAZARLAMA A.Ş.					
+Technology	ESCOM			ESCORT TEKNOLOJİ YATIRIM A.Ş.					
+Technology	FONET			FONET BİLGİ TEKNOLOJİLERİ A.Ş.					
+Technology	FORTE			FORTE BİLGİ İLETİŞİM TEKNOLOJİLERİ VE SAVUNMA SANAYİ A.Ş.					
+Technology	HTTBT			HİTİT BİLGİSAYAR HİZMETLERİ A.Ş.					
+Technology	INGRM			INGRAM MİCRO BİLİŞİM SİSTEMLERİ A.Ş.					
+Technology	INDES			İNDEKS BİLGİSAYAR SİSTEMLERİ MÜHENDİSLİK SANAYİ VE TİCARET A.Ş.					
+Technology	INTEK			İNNOSA TEKNOLOJİ A.Ş.					
+Technology	KFEIN			KAFEİN YAZILIM HİZMETLERİ TİCARET A.Ş.					
+Technology	KAREL			KAREL ELEKTRONİK SANAYİ VE TİCARET A.Ş.					
+Technology	KRONT			KRON TEKNOLOJİ A.Ş.					
+Technology	LINK			LİNK BİLGİSAYAR SİSTEMLERİ YAZILIMI VE DONANIMI SANAYİ VE TİCARET A.Ş.					
+Technology	LOGO			LOGO YAZILIM SANAYİ VE TİCARET A.Ş.					
+Technology	MANAS			MANAS ENERJİ YÖNETİMİ SANAYİ VE TİCARET A.Ş.					
+Technology	MTRKS			MATRİKS FİNANSAL TEKNOLOJİLER A.Ş.					
+Technology	MIATK			MİA TEKNOLOJİ A.Ş.					
+Technology	MOBTL			MOBİLTEL İLETİŞİM HİZMETLERİ SANAYİ VE TİCARET A.Ş.					
+Technology	NETAS			NETAŞ TELEKOMÜNİKASYON A.Ş.					
+Technology	OBASE			OBASE BİLGİSAYAR VE DANIŞMANLIK HİZMETLERİ TİCARET A.Ş.					
+Technology	ODINE			ODİNE SOLUTİONS TEKNOLOJİ TİCARET VE SANAYİ A.Ş.					
+Technology	ONRYT			ONUR YÜKSEK TEKNOLOJİ A.Ş.					
+Technology	PAPIL			PAPİLON SAVUNMA TEKNOLOJİ VE TİCARET A.Ş.					
+Technology	PATEK			PASİFİK TEKNOLOJİ A.Ş.					
+Technology	PENTA			PENTA TEKNOLOJİ ÜRÜNLERİ DAĞITIM TİCARET A.Ş.					
+Technology	PKART			PLASTİKKART AKILLI KART İLETİŞİM SİSTEMLERİ SANAYİ VE TİCARET A.Ş.					
+Technology	REEDR			REEDER TEKNOLOJİ SANAYİ VE TİCARET A.Ş.					
+Technology	SDTTR			SDT UZAY VE SAVUNMA TEKNOLOJİLERİ A.Ş.					
+Technology	SMART			SMARTİKS YAZILIM A.Ş.					
+Technology	VBTYZ			VBT YAZILIM A.Ş.					
+Telecommunications	DOBUR			DOĞAN BURDA DERGİ YAYINCILIK VE PAZARLAMA A.Ş.					
+Telecommunications	HURGZ			HÜRRİYET GAZETECİLİK VE MATBAACILIK A.Ş.					
+Telecommunications	IHGZT			İHLAS GAZETECİLİK A.Ş.					
+Telecommunications	IHAAS			İHLAS HABER AJANSI A.Ş.					
+Telecommunications	TCELL			TURKCELL İLETİŞİM HİZMETLERİ A.Ş.					
+Telecommunications	TTKOM			TÜRK TELEKOMÜNİKASYON A.Ş.					
+Utilities	AHGAZ			AHLATCI DOĞAL GAZ DAĞITIM ENERJİ VE YATIRIM A.Ş.					
+Utilities	AKENR			AKENERJİ ELEKTRİK ÜRETİM A.Ş.					
+Utilities	AKFYE			AKFEN YENİLENEBİLİR ENERJİ A.Ş.					
+Utilities	AKSEN			AKSA ENERJİ ÜRETİM A.Ş.					
+Utilities	AKSUE			AKSU ENERJİ VE TİCARET A.Ş.					
+Utilities	ALFAS			ALFA SOLAR ENERJİ SANAYİ VE TİCARET A.Ş.					
+Utilities	AYDEM			AYDEM YENİLENEBİLİR ENERJİ A.Ş.					
+Utilities	AYEN			AYEN ENERJİ A.Ş.					
+Utilities	BIOEN			BİOTREND ÇEVRE VE ENERJİ YATIRIMLARI A.Ş.					
+Utilities	BIGEN			BİRLEŞİM GRUP ENERJİ YATIRIMLARI A.Ş.					
+Utilities	CONSE			CONSUS ENERJİ İŞLETMECİLİĞİ VE HİZMETLERİ A.Ş.					
+Utilities	CWENE			CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ A.Ş.					
+Utilities	CANTE			ÇAN2 TERMİK A.Ş.					
+Utilities	CATES			ÇATES ELEKTRİK ÜRETİM A.Ş.					
+Utilities	ARASE			DOĞU ARAS ENERJİ YATIRIMLARI A.Ş.					
+Utilities	ENJSA			ENERJİSA ENERJİ A.Ş.					
+Utilities	ENERY			ENERYA ENERJİ A.Ş.					
+Utilities	ESEN			ESENBOĞA ELEKTRİK ÜRETİM A.Ş.					
+Utilities	GWIND			GALATA WIND ENERJİ A.Ş.					
+Utilities	HUNER			HUN YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.					
+Utilities	ENTRA			IC ENTERRA YENİLENEBİLİR ENERJİ A.Ş.					
+Utilities	IZENR			İZDEMİR ENERJİ ELEKTRİK ÜRETİM A.Ş.					
+Utilities	KARYE			KARTAL YENİLENEBİLİR ENERJİ ÜRETİM A.Ş.					
+Utilities	LYDYE			LYDİA YEŞİL ENERJİ KAYNAKLARI A.Ş.					
+Utilities	MAGEN			MARGÜN ENERJİ ÜRETİM SANAYİ VE TİCARET A.Ş.					
+Utilities	MOGAN			MOGAN ENERJİ YATIRIM HOLDİNG A.Ş.					
+Utilities	NATEN			NATUREL YENİLENEBİLİR ENERJİ TİCARET A.Ş.					
+Utilities	NTGAZ			NATURELGAZ SANAYİ VE TİCARET A.Ş.					
+Utilities	ODAS			ODAŞ ELEKTRİK ÜRETİM SANAYİ TİCARET A.Ş.					
+Utilities	PAMEL			PAMEL YENİLENEBİLİR ELEKTRİK ÜRETİM A.Ş.					
+Utilities	SMRTG			SMART GÜNEŞ ENERJİSİ TEKNOLOJİLERİ ARAŞTIRMA GELİŞTİRME ÜRETİM SANAYİ VE TİCARET A.Ş.					
+Utilities	TATEN			TATLIPINAR ENERJİ ÜRETİM A.Ş.					
+Utilities	ZEDUR			ZEDUR ENERJİ ELEKTRİK ÜRETİM A.Ş.					
+Utilities	ZOREN			ZORLU ENERJİ ELEKTRİK ÜRETİM A.Ş.					
