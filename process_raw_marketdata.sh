@@ -3,12 +3,22 @@ function create_datafiles() {
   local inputfile=$2
   local sectors=$3
 
-  local datadir="data/$( echo "${date}" | sed 's/-/\//g' )"
+  local datadir="marketdata/$( echo "${date}" | sed 's/-/\//g' )"
   local outputfile="${datadir}/bist.json"
 
   if [ -f "${outputfile}" ]; then
     echo "File already exists: ${outputfile}"
     return;
+  fi
+
+  if [ -d "rawdata" ]; then
+    echo "ERROR: Please create the 'rawdata' directory and place there your raw datafiles"
+    exit 1;
+  fi
+
+  if [ -z "$(ls -A "rawdata")" ]; then
+    echo "ERROR: The 'rawdata' directory is empty"
+    exit 1;
   fi
 
   mkdir -p "${datadir}"
