@@ -141,7 +141,7 @@ export -f create_datafiles
 
 
 # Read sectors
-sectors=$( jq -R 'split("\t") | { (.[1]): [.[0], .[4]] }' sectors/sectors.csv | jq -s 'add' --compact-output )
+sectors=$( jq -R 'split("\t") | { (.[1]): [.[0], .[4]] }' sectors/bist.csv | jq -s 'add' --compact-output )
 
 
 for filename in ./rawdata/*.csv; do
