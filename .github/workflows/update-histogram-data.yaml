@@ -1,0 +1,58 @@
+name: 'Update Histogram Datafiles'
+# Borsa Istanbul trading hours
+# Pre-Market Trading:   UTC
+# Regular Session:      UTC
+# After-Hours Trading:  UTC
+
+on:
+  # push:
+  workflow_dispatch:
+    inputs:
+      start_date:
+        description: 'Start date, YYYY/MM/DD'
+        required: true
+        type: string
+        default: '2015/11/30'
+      end_date:
+        description: 'End date, YYYY/MM/DD'
+        required: true
+        type: string
+        default: '2025/03/01'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    env:
+      CI_COMMIT_AUTHOR: github-actions[bot]
+      CI_COMMIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+      CI_COMMIT_MESSAGE: 'Update Market Data: BIST'
+    steps:
+    - name: Read inputs
+      run: |
+        START_DATE="${{ inputs.start_date }}"
+        END_DATE="${{ inputs.end_date }}"
+        echo "START_DATE=$START_DATE" >> $GITHUB_ENV
+        echo "END_DATE=$END_DATE" >> $GITHUB_ENV
+    
+    - name: Checkout
+      if: ${{ github.event_name == 'workflow_dispatch' }}
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 1
+
+    - name: Update Histogram Datafiles
+      uses: finmap-org/actions/update-histogram-data@main
+      with:
+        start_date: ${{ env.START_DATE }}
+        end_date: ${{ env.END_DATE }}
+        
+    - name: Commit and push
+      run: |
+        git config --global user.name "${{ env.CI_COMMIT_AUTHOR }}"
+        git config --global user.email "${{ env.CI_COMMIT_AUTHOR_EMAIL }}"
+        git add --all
+        git commit -m "${{ env.CI_COMMIT_MESSAGE }}"
+        git push origin main
