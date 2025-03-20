@@ -11,7 +11,7 @@ function create_datafiles() {
     return;
   fi
 
-  if [ -d "rawdata" ]; then
+  if [ ! -d "rawdata" ]; then
     echo "ERROR: Please create the 'rawdata' directory and place there your raw datafiles"
     exit 1;
   fi
@@ -151,7 +151,7 @@ export -f create_datafiles
 
 
 # Read sectors
-sectors=$( jq -R 'split("\t") | { (.[1]): [.[0], .[4]] }' sectors/bist.csv | jq -s 'add' --compact-output )
+sectors=$( jq -R 'split("\t") | { (.[1]): [.[0], .[4]] }' sectors/bist.tsv | jq -s 'add' --compact-output )
 
 
 for filename in ./rawdata/*.csv; do
